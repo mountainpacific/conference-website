@@ -1,0 +1,21 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {
+  color: #F0F0F0;
+  background-image: url("https://images.pexels.com/photos/4448856/pexels-photo-4448856.jpeg?cs=srgb&dl=green-trees-across-mountain-range-under-blue-sky-4448856.jpg&fm=jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.header-text {
+  color: black;
+}
+
+.display-3 {
+  padding-bottom: 2rem;
+}
