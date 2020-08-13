@@ -1,0 +1,52 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 5px;
+}
+
+.committee {
+  padding-top: 5rem;
+}
+
+.list-group {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.table-title {
+  padding-bottom: 1rem;
+}
+
+.guideline-title {
+  text-align: center;
+}
+
+.guideline-list {
+  width: 50%;
+  margin: 1rem auto;
+}
+
+.levels {
+  margin: 0 auto;
+}
+
+.card {
+  width: 10rem;
+}
+
+
+.form-group {
+  width: 50%;
+  margin: 1rem auto;
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+}
